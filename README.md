@@ -1,3 +1,16 @@
+# Preparation for May 25th
+##### After last week's class, we decided to make this seminar more workshop like than a lecture.
+##### Therefore, this week's workshop will be more hands on and fun.
+
+## Here is what you are going to do (on the day of workshop or you can start early):
+Find a "good" data set. Don't worry. We will go over what is a good dataset on the day of the seminar.
+
+Load the data into Tableau and find 3 interesting things/observations that you find. 
+
+Visualize these interesting things into something you can present with Tableau. 
+
+You will be divided into groups so that you all can learn from each other. 
+
 # Tableau Workshop May 2019 
 ##### This is a workshop designed to learn how to use Tableau in 3 short weekend sessions
 ![](image/T_logo.png)
@@ -16,6 +29,8 @@ If that link does not work, [Here is a good playlist that I made](https://www.yo
 ##### Use your SCU email and the image of your access card to get a free student version
 
 For student licenses, [Click Here](https://www.tableau.com/academic/students)
+
+
 
 
 
