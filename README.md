@@ -1,7 +1,9 @@
 # Preparation for 6/1/2019
 #### We are going to go over Marimekko charts this week.
 Here is the [Link for part 1](https://www.tableau.com/about/blog/2016/8/introduction-marimekko-chart-many-colors-and-many-names-58111)
+
 Here is the [Link for part 2](https://www.tableau.com/about/blog/2016/8/how-build-marimekko-chart-tableau-58153?__src=liftigniter&__widget=blog-widget&li_source=LI&li_medium=blog-widget)
+
 Here is the [Link for part 3](https://www.tableau.com/about/blog/2016/8/how-add-context-marimekko-charts-tableau-58154?__src=liftigniter&__widget=blog-widget&li_source=LI&li_medium=blog-widget)
 
 
