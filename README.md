@@ -1,3 +1,8 @@
+# Preparation for 6/1/2019
+#### We are going to go over Marimekko charts this week.
+Here is the [Link](https://www.tableau.com/about/blog/2016/8/introduction-marimekko-chart-many-colors-and-many-names-58111)
+
+
 # Preparation for May 25th
 ##### After last week's class, we decided to make this seminar more workshop like than a lecture.
 ##### Therefore, this week's workshop will be more hands on and fun.
