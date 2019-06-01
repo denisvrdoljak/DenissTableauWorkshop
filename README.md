@@ -6,6 +6,8 @@ Here is the [Link for part 2](https://www.tableau.com/about/blog/2016/8/how-buil
 
 Here is the [Link for part 3](https://www.tableau.com/about/blog/2016/8/how-add-context-marimekko-charts-tableau-58154?__src=liftigniter&__widget=blog-widget&li_source=LI&li_medium=blog-widget)
 
+Here is the [workbook](https://public.tableau.com/profile/jonathan.drummey?&_ga=2.30229046.806109763.1559356350-1267049494.1555799782#!/vizhome/marimekko-mosaicplottmp/DeptGender100bars)
+
 
 # Preparation for May 25th
 ##### After last week's class, we decided to make this seminar more workshop like than a lecture.
