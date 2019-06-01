@@ -8,6 +8,8 @@ Here is the [Link for part 3](https://www.tableau.com/about/blog/2016/8/how-add-
 
 Here is the [workbook](https://public.tableau.com/profile/jonathan.drummey?&_ga=2.30229046.806109763.1559356350-1267049494.1555799782#!/vizhome/marimekko-mosaicplottmp/DeptGender100bars)
 
+##### In case, you need the dataset, [click here](Data%20and%20stuff/Mekko%20Chart/MekkoUCB-original-data.xlsx)
+
 
 # Preparation for May 25th
 ##### After last week's class, we decided to make this seminar more workshop like than a lecture.
